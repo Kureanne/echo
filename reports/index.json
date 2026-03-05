@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260304-180821-3o6r",
+      "title": "Dagzilla, Song Vanny",
+      "commanders": [
+        "Dagzilla",
+        "Song Vanny"
+      ],
+      "dateStart": "2026-03-05T02:08:21.000Z",
+      "dateEnd": "2026-03-05T03:02:33.000Z",
+      "dateLabel": "3/4/2026, 6:08:21 PM - 3/4/2026, 7:02:33 PM",
+      "url": "https://Kureanne.github.io/echo/?report=20260304-180821-3o6r",
+      "summary": {
+        "borderlandsPct": 0.7368421052631579,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 5,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260304-162130-sevu",
       "title": "Pintsize Vanguard",
       "commanders": [
