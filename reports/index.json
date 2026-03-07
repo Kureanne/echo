@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260306-181131-dekh",
+      "title": "Dagzilla",
+      "commanders": [
+        "Dagzilla"
+      ],
+      "dateStart": "2026-03-07T02:11:31.000Z",
+      "dateEnd": "2026-03-07T02:48:17.000Z",
+      "dateLabel": "3/6/2026, 6:11:31 PM - 3/6/2026, 6:48:17 PM",
+      "url": "https://Kureanne.github.io/echo/?report=20260306-181131-dekh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260304-184217-eilh",
       "title": "Dagzilla, Song Vanny",
       "commanders": [
