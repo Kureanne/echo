@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260513-194639-f96m",
+      "title": "Mïdnight Orchid",
+      "commanders": [
+        "Mïdnight Orchid"
+      ],
+      "dateStart": "2026-05-13T23:46:39.000Z",
+      "dateEnd": "2026-05-14T00:54:39.000Z",
+      "dateLabel": "5/13/2026, 7:46:39 PM - 5/13/2026, 8:54:39 PM",
+      "url": "https://Kureanne.github.io/echo/?report=20260513-194639-f96m",
+      "summary": {
+        "borderlandsPct": 0.391304347826087,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260509-191012-7r4o",
       "title": "Mïdnight Orchid",
       "commanders": [
