@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260514-210839-pt96",
+      "title": "Mïdnight Orchid",
+      "commanders": [
+        "Mïdnight Orchid"
+      ],
+      "dateStart": "2026-05-15T01:08:39.000Z",
+      "dateEnd": "2026-05-15T01:40:07.000Z",
+      "dateLabel": "5/14/2026, 9:08:39 PM - 5/14/2026, 9:40:07 PM",
+      "url": "https://Kureanne.github.io/echo/?report=20260514-210839-pt96",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 9,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20260513-194639-f96m",
       "title": "Mïdnight Orchid",
       "commanders": [
